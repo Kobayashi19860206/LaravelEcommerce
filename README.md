@@ -26,27 +26,21 @@ It is a backend system for an E-Commerce built with the Laravel framework, provi
 - Automatic coupon deactivation using events in MySQL ( No need to do it manually )
 
 ### Screenshots
-![screenshot_1](https://github.com/MUSTAFA-Hamzawy/Multi-vendor-eCommerce-laravel/assets/72188665/ed55f8ab-62ec-4bf6-86ac-d1a46b164841)
+![screenshot_1](https://github.com/Kobayashi19860206/Multi-vendor-eCommerce-laravel/assets/72188665/ed55f8ab-62ec-4bf6-86ac-d1a46b164841)
 
 
 <hr />
 
-![screenshot_2](https://github.com/MUSTAFA-Hamzawy/Multi-vendor-eCommerce-laravel/assets/72188665/40906698-aa10-48dc-b2ea-0e83eb48d5ca)
+![screenshot_2](https://github.com/Kobayashi19860206/Multi-vendor-eCommerce-laravel/assets/72188665/40906698-aa10-48dc-b2ea-0e83eb48d5ca)
 
 
 ### Database Diagram
 
-![db_diagram](https://github.com/MUSTAFA-Hamzawy/Multi-vendor-eCommerce-laravel/assets/72188665/11bf6490-056b-4356-ad33-3d382c48cb6c)
+![db_diagram](https://github.com/Kobayashi19860206/Multi-vendor-eCommerce-laravel/assets/72188665/11bf6490-056b-4356-ad33-3d382c48cb6c)
 
 
 
-## Demo Video
-Video : <a href="https://www.youtube.com/watch?v=goU6Rim3VOY" id="demo_video"> Youtube Link </a>
-
-
-
-
-https://github.com/MUSTAFA-Hamzawy/Multi-vendor-eCommerce-laravel/assets/72188665/eef57cea-6e74-43b1-8c26-58efd52e72b8
+https://github.com/Kobayashi19860206/Multi-vendor-eCommerce-laravel/assets/72188665/eef57cea-6e74-43b1-8c26-58efd52e72b8
 
 
 
@@ -76,7 +70,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
 
 ```sh
-    git clone https://github.com/MUSTAFA-Hamzawy/Multi-vendor-eCommerce-laravel.git
+    git clone https://github.com/Kobayashi19860206/Multi-vendor-eCommerce-laravel.git
 ```
 
 2. Import the database file from the folder "SQL File"
@@ -106,7 +100,7 @@ To get a local copy up and running follow these simple steps.
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-- If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/MUSTAFA-Hamzawy/Multi-vendor-eCommerce-laravel/issues/new) to discuss it, or
+- If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/Kobayashi19860206/Multi-vendor-eCommerce-laravel/issues/new) to discuss it, or
 -  Directly create a pull request after you edit the files with necessary changes.
 
 ### Creating A Pull Request
@@ -118,4 +112,4 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 ## License
-See [LICENSE](https://github.com/MUSTAFA-Hamzawy/Multi-vendor-eCommerce-laravel/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/Kobayashi19860206/Multi-vendor-eCommerce-laravel/blob/main/LICENSE) for more information.
